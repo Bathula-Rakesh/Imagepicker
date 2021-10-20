@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "587070736735",
+    "project_id": "imagepicker-fb4be",
+    "storage_bucket": "imagepicker-fb4be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587070736735:android:2ba401f0bfccbbde3eceea",
+        "android_client_info": {
+          "package_name": "com.example.imagepicker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587070736735-re3u5pugv5p6t1db65hi0k12puasihvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuR6PuT0W4qE-WgeTiUFMR8Wdb77WX0pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587070736735-re3u5pugv5p6t1db65hi0k12puasihvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
